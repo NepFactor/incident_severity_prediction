@@ -1,0 +1,247 @@
+timestamp,event_id,account,process_name,group_name,privileged_logon,admin_group_touch,suspicious_process,time_bucket,burst_count,severity
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,1,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,2,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,3,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,4,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,5,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,6,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,1,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,2,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,7,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,8,medium
+3/12/21 10:48,4688,-,vssvc.exe,,0,1,0,day,1,medium
+3/12/21 10:48,4672,SYSTEM,,,1,0,0,day,1,medium
+3/12/21 10:48,4624,SYSTEM,services.exe,,0,0,0,day,1,low
+3/12/21 10:48,4688,-,esentutl.exe,,0,1,0,day,2,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,3,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,4,medium
+3/12/21 10:48,4688,-,reg.exe,,0,1,0,day,5,medium
+3/12/21 10:48,4688,-,reg.exe,,0,1,0,day,6,medium
+3/12/21 10:48,4688,-,reg.exe,,0,1,0,day,7,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,8,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,9,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,10,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,11,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,12,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,3,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,13,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,4,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,14,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,15,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,16,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,17,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,18,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,5,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,6,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,7,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,19,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,8,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,20,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,9,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,10,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,21,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,22,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,23,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,24,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,25,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,26,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,27,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,28,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,29,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,30,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,11,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,12,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,13,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,14,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,15,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,16,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,17,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,18,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,19,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,20,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,21,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,22,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,23,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,24,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,25,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,26,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,27,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,28,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,29,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,30,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,31,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,32,high
+3/12/21 10:48,4688,-,svchost.exe,,0,1,0,day,9,medium
+3/12/21 10:48,4672,SYSTEM,,,1,0,0,day,2,medium
+3/12/21 10:48,4624,SYSTEM,services.exe,,0,0,0,day,2,low
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,33,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,34,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,35,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,36,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,37,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,38,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,39,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,40,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,41,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,42,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,43,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,44,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,45,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,46,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,47,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,48,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,49,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,50,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,51,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,52,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,53,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,54,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,55,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,56,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,57,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,58,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,59,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,60,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,61,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,62,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,63,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,64,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,65,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,66,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,67,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,68,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,69,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,70,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,71,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,72,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,73,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,74,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,75,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,76,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,77,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,78,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,79,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,80,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,81,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,82,high
+3/12/21 10:48,4905,WIN-DC-725$,vssvc.exe,,0,0,0,day,1,low
+3/12/21 10:48,4904,WIN-DC-725$,vssvc.exe,,0,0,0,day,1,low
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,31,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,32,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,33,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,34,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,35,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,36,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,37,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,83,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,38,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,84,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,85,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,86,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,39,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,40,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,41,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,87,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,42,medium
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,88,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Backup Operators,1,1,0,day,89,high
+3/12/21 10:48,4799,Administrator,esentutl.exe,Administrators,1,1,0,day,90,high
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,43,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Backup Operators,0,1,0,day,44,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,45,medium
+3/12/21 10:48,4799,WIN-DC-725$,vssvc.exe,Administrators,0,1,0,day,46,medium
+3/12/21 10:48,4688,-,powershell.exe,,0,1,0,day,10,medium
+3/12/21 10:48,4688,-,cvtres.exe,,0,1,0,day,11,medium
+3/12/21 10:48,4688,-,csc.exe,,0,1,0,day,12,medium
+3/12/21 10:48,4688,-,cvtres.exe,,0,1,0,day,13,medium
+3/12/21 10:48,4688,-,csc.exe,,0,1,0,day,14,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,1,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,2,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,3,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,1,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,1,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,1,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,1,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,1,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,4,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,2,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,2,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,2,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,2,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,2,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,5,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,6,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,7,medium
+3/12/21 10:48,4688,-,cvtres.exe,,0,1,0,day,15,medium
+3/12/21 10:48,4688,-,csc.exe,,0,1,0,day,16,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,3,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,3,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,3,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,3,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,3,medium
+3/12/21 10:48,4688,-,chcp.com,,0,1,0,day,17,medium
+3/12/21 10:48,4688,-,powershell.exe,,0,1,0,day,18,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,4,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,4,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,4,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,4,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,4,medium
+3/12/21 10:48,4688,-,powershell.exe,,0,1,0,day,19,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,20,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,5,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,5,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,5,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,5,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,5,medium
+3/12/21 10:48,4688,-,conhost.exe,,0,1,0,day,21,medium
+3/12/21 10:48,4688,Administrator,winrshost.exe,,1,1,0,day,1,high
+3/12/21 10:48,4688,-,dllhost.exe,,0,1,0,day,22,medium
+3/12/21 10:48,4799,WIN-DC-725$,svchost.exe,Administrators,0,1,0,day,47,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,6,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,6,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,6,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,6,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,6,medium
+3/12/21 10:48,4688,-,whoami.exe,,0,1,0,day,23,medium
+3/12/21 10:48,4688,-,hostname.exe,,0,1,0,day,24,medium
+3/12/21 10:48,4688,-,powershell.exe,,0,1,0,day,25,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,7,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,7,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,7,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,7,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,7,medium
+3/12/21 10:48,4688,-,cvtres.exe,,0,1,0,day,26,medium
+3/12/21 10:48,4688,-,csc.exe,,0,1,0,day,27,medium
+3/12/21 10:48,4688,-,powershell.exe,,0,1,0,day,28,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,29,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,30,medium
+3/12/21 10:48,4688,-,cmd.exe,,0,1,0,day,31,medium
+3/12/21 10:48,4688,-,cvtres.exe,,0,1,0,day,32,medium
+3/12/21 10:48,4688,-,csc.exe,,0,1,0,day,33,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,8,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,9,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,10,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,8,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,8,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,8,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,8,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,8,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,11,medium
+3/12/21 10:48,4672,Administrator,,,1,0,0,day,9,medium
+3/12/21 10:48,4624,Administrator,svchost.exe,,1,0,0,day,9,medium
+3/12/21 10:48,4648,Administrator,svchost.exe,,1,0,0,day,9,medium
+3/12/21 10:48,4769,Administrator@ATTACKRANGE.LOCAL,,,1,0,0,day,9,medium
+3/12/21 10:48,4768,Administrator,,,1,0,0,day,9,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,12,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,13,medium
+3/12/21 10:48,4634,Administrator,,,1,0,0,day,14,medium
+3/12/21 10:48,4634,WIN-DC-725$,,,0,0,0,day,1,low
+3/12/21 10:48,4624,WIN-DC-725$,-,,0,0,0,day,1,low
+3/12/21 10:48,4672,WIN-DC-725$,,,1,0,0,day,1,medium
+3/12/21 10:48,4688,-,splunk-netmon.exe,,0,1,0,day,34,medium
+3/12/21 10:48,4688,-,splunk-admon.exe,,0,1,0,day,35,medium
+3/12/21 10:48,4688,-,splunk-monitornohandle.exe,,0,1,0,day,36,medium
+3/12/21 10:48,4688,-,splunk-powershell.exe,,0,1,0,day,37,medium
+3/12/21 10:48,4688,-,splunk-winprintmon.exe,,0,1,0,day,38,medium
+3/12/21 10:48,4688,-,splunk-regmon.exe,,0,1,0,day,39,medium
+3/12/21 10:48,4688,-,splunk-powershell.exe,,0,1,0,day,40,medium

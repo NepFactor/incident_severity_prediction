@@ -1,0 +1,36 @@
+Loaded 246 labeled rows from windows_incidents.csv
+Train size: 173, Test size: 73
+
+=== Evaluation ===
+Test samples: 73
+Accuracy: 0.973
+
+Confusion Matrix (rows=true, cols=pred):
+          high      low   medium
+    high     26       0       0
+     low      0       2       0
+  medium      1       1      43
+
+Per-class Precision / Recall:
+    high: Precision=0.963, Recall=1.000
+     low: Precision=0.667, Recall=1.000
+  medium: Precision=1.000, Recall=0.956
+
+=== Example Posterior Probabilities ===
+Example 1: event_id=4799, priv=0, admin_grp=1, suspicious=0, time=day, burst=26.0
+   P(high|X) = 0.061
+   P(low|X) = 0.000
+   P(medium|X) = 0.939
+   Predicted severity: medium, True: medium
+
+Example 2: event_id=4799, priv=1, admin_grp=1, suspicious=0, time=day, burst=71.0
+   P(high|X) = 1.000
+   P(low|X) = 0.000
+   P(medium|X) = 0.000
+   Predicted severity: high, True: high
+
+Example 3: event_id=4799, priv=0, admin_grp=1, suspicious=0, time=day, burst=8.0
+   P(high|X) = 0.028
+   P(low|X) = 0.000
+   P(medium|X) = 0.972
+   Predicted severity: medium, True: medium
